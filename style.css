@@ -57,7 +57,7 @@ h1, h2 {
 
  
 
-#home  p  {
+#home  p {
     padding: 50px;
     border-radius: 10px;
     font-style: italic;
@@ -71,7 +71,7 @@ h1, h2 {
     background-size: cover;
    background-position: center;
     color: rgb(11, 9, 9);
-     height: 450px;
+     height: 450px;;
      display:flex;
      text-align: left;
    
@@ -347,8 +347,8 @@ footer {
     background-color: #52c4ea;
     color: rgb(10, 9, 9);
     height: 70px;
+   
+    width:inherit;
+    height:auto;
     
-    left: 0;
-    bottom: 0;
-    width: 100%;
 }
