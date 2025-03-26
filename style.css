@@ -320,9 +320,10 @@ h1, h2 {
     font-style: italic;
     text-align: center;
     font-size: 50px;
-    background-image: url(imagess/p.jpg);
+    background-image: url(imagess/p2.jpg);
     background-repeat: no-repeat;
     filter: blur(0);
+    background-attachment: fixed;
     background-size: cover;
     background-position: center;
     margin-right: 0px;
@@ -333,18 +334,18 @@ h1, h2 {
     height: 170px;
     object-fit: cover;
     border-radius: 15px;
-    box-shadow: black 0 0 20px;
+    box-shadow: rgb(1, 1, 1) 0 0 20px;
     background-color: aquamarine;
 }
 .gallery figcaption{
     font-size: 20px;
-    
+    color: rgb(7, 4, 4);
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #52c4ea;
+    background-color: #1eabda;
     color: rgb(10, 9, 9);
     
    
