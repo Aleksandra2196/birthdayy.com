@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 header {
-    background-color: #52c4ea;
+    background-color: #46c4ef;
     padding: 10px 0;
     height: 80px;
     width: 100%;
@@ -345,7 +345,7 @@ h1, h2 {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #1eabda;
+    background-color: #46c4ef;
     color: rgb(10, 9, 9);
     
    
